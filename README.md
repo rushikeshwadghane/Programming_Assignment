@@ -35,4 +35,12 @@ In this repository solved programs in c, c++ and java languages.
     •Question 5: Accept number and retun diffrence between its factor and nonfactor.
 •Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment4    
 
+•Assignment6:
+    •Description:This assignment is based operation on digit .
+    •Question 1: Accept number and display its digit in reverse order.
+    •Question 2: Accept  number from user and check it contain 0 or not.
+    •Question 3: Accept number and count frequency of 2 in it.
+    •Question 4: Accept  number and Count frequency of 4 in it. 
+    •Question 5: Accept number and Count frequency of number whoos less than 6.
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment6
 
