@@ -60,10 +60,17 @@ In this repository solved programs in c, c++ and java languages.
     •Question 2: Accept n  number and display such number which is divisible by 4.
     •Question 3: Accept n  number and display such number which is even and divisible by 4.
     •Question 4: Accept n  number and display such number which is  divisible by 3 and 5.
-    •Question 5: Accept n numebr and display if it is multiplies of 11.
+    •Question 5: Accept n numebr and display if it is multiplies of 11.        
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment8
 
-
+•Assignment9:
+    •Description:This assignment is based programs on Array.
+    •Question 1: Accept n  number and count  frequency of even number  .
+    •Question 2: Accept n  number and return diffrence between frequency of even and odd number.
+    •Question 3: Accept n  number and display check 11 contains in it or not.
+    •Question 4: Accept n  number and return frequency 11 in it.
+    •Question 5: Accept n numebr and another number check its contain or not.        
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment9
 
 
 
