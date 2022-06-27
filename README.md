@@ -36,11 +36,22 @@ In this repository solved programs in c, c++ and java languages.
 •Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment4    
 
 •Assignment6:
-    •Description:This assignment is based operation on digit .
+    •Description:This assignment is based operation on digit.
     •Question 1: Accept number and display its digit in reverse order.
     •Question 2: Accept  number from user and check it contain 0 or not.
     •Question 3: Accept number and count frequency of 2 in it.
     •Question 4: Accept  number and Count frequency of 4 in it. 
     •Question 5: Accept number and Count frequency of number whoos less than 6.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment6
+
+•Assignment7:
+    •Description:This assignment is based operation on digit.
+    •Question 1: Accept number and count even digit in number.
+    •Question 2: Accept number and count odd digit in number.
+    •Question 3: Accept number and count  digit between 3 and 7 in number.
+    •Question 4: Accept number and return multiplication of digit.
+    •Question 5: Accept number and count even digit in number.
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment7
+
+
 
