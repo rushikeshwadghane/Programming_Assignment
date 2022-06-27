@@ -8,8 +8,7 @@ In this repository solved programs in c, c++ and java languages.
     •Question 4 :program to check number is divisible or not.
     •Question 5 :Program to print n number of time * .
 •Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment1    
-•Assignment1:
-    •Question 1:
+•Assignment2:
     •Description:This assignment is based on using basic C program.
     •Question 1: Accept one number from user and print that number * on screen.
     •Question 2: Accept one number from user and print that number * on screen.
@@ -17,5 +16,17 @@ In this repository solved programs in c, c++ and java languages.
     •Question 4: Accept two number and print first number second number of time.
     •Question 5: Check number is even or odd.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment2
+
+•Assignment3:
+    •Description:This assignment is based on if-else.
+    •Question 1: Print n number of even number on screen.
+    •Question 2: Print Even factor of number.
+    •Question 3: Print Odd factor of number.
+    •Question 4: Convert character upper case to lower case.
+    •Question 5: Check character  is vowel or not.
+•Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment3
+
+
+
 
 
