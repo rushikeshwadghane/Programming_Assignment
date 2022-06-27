@@ -26,7 +26,13 @@ In this repository solved programs in c, c++ and java languages.
     •Question 5: Check character  is vowel or not.
 •Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment3
 
-
-
+•Assignment4:
+    •Description:This assignment is based on Iteration.
+    •Question 1: Accept number and display multiplication of its factor.
+    •Question 2: Accept  number from user print its factor decreasing order.
+    •Question 3: Accept number display its non factor.
+    •Question 4: Accept number and return summation its non factor. 
+    •Question 5: Accept number and retun diffrence between its factor and nonfactor.
+•Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment4    
 
 
