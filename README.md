@@ -54,4 +54,16 @@ In this repository solved programs in c, c++ and java languages.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment7
 
 
+•Assignment8:
+    •Description:This assignment is based programs on Array.
+    •Question 1: Accept n  number and count  diffrence between sum of even and odd number.
+    •Question 2: Accept n  number and display such number which is divisible by 4.
+    •Question 3: Accept n  number and display such number which is even and divisible by 4.
+    •Question 4: Accept n  number and display such number which is  divisible by 3 and 5.
+    •Question 5: Accept n numebr and display if it is multiplies of 11.
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment8
+
+
+
+
 
