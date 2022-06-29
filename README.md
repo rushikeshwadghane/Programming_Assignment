@@ -188,9 +188,9 @@ In this repository solved programs in c, c++ and java languages.
        1	2	3\	
        a	b	c\	
     •Question 4: print pattern:\
-        1	 2	 3	
-        -1	-2	-3	
-        1	 2	 3	
+        1	 2	 3\	
+        -1	-2	-3\	
+        1	 2	 3\	
     •Question 5: print below pattern:\
         1   2   3\
         2   3   4\
