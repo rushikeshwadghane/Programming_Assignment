@@ -103,7 +103,7 @@ In this repository solved programs in c, c++ and java languages.
 
 •Assignment13:\
     •Description:This assignment is based printing pattrn.\
-    •Question 1: print below pattern:\ 
+    •Question 1: print below pattern: \ 
         *   *   *\
         *   *   *\
         *   *   *\
@@ -124,3 +124,27 @@ In this repository solved programs in c, c++ and java languages.
         2   2   2\
         3   3   3\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment13	
+
+•Assignment14:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print below pattern: \ 
+        A   B   C \
+        A   B   C \
+        A   B   C \
+    •Question 2: print pattern:\
+        A   B   C \
+        a   b   c \
+        A   B   C \
+    •Question 3: print pattern:\
+        A   A   A \
+        B   B   B \
+        C   C   C \
+    •Question 4: print pattern:\
+        3   3   3\
+        2   2   2\
+        1   1   1\
+    •Question 5: print below pattern:\
+        1   2   3\
+        4   5   6\
+        7   8   9\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment14	
