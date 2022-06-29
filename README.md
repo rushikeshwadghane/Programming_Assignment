@@ -1,10 +1,5 @@
 # Programming_Assignment
-<<<<<<< HEAD
-In this repository solved programs in c, c++ and java languages.<
-
-=======
 In this repository solved programs in c, c++ and java languages.
->>>>>>> 5a59f32ec0f16ca2190682aecebd44797dd8f638
 
 •Assignment1:
     •Description:This assignment is based on using basic C program.
@@ -12,13 +7,8 @@ In this repository solved programs in c, c++ and java languages.
     •Question 2 :Program to print any word 5 times on screen.
     •Question 3 :program to print 5 to 1 number on screen.
     •Question 4 :program to check number is divisible or not.
-<<<<<<< HEAD
     •Question 5 :Program to print n number of time *.
 •Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment1
-=======
-    •Question 5 :Program to print n number of time * .
-•Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment1  \
->>>>>>> 5a59f32ec0f16ca2190682aecebd44797dd8f638
 
 •Assignment2:
     •Description:This assignment is based on using basic C program.
