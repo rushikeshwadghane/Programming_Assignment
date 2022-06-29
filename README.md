@@ -44,7 +44,7 @@ In this repository solved programs in c, c++ and java languages.
     •Question 3: Accept number and count frequency of 2 in it.\
     •Question 4: Accept  number and Count frequency of 4 in it. \
     •Question 5: Accept number and Count frequency of number whoos less than 6.\
-•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment6
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment6/
 
 •Assignment7:\
     •Description:This assignment is based operation on digit.\
@@ -58,21 +58,29 @@ In this repository solved programs in c, c++ and java languages.
 
 •Assignment8:\
     •Description:This assignment is based programs on Array.\
-    •Question 1: Accept n  number and count  diffrence between sum of even and odd number.\
-    •Question 2: Accept n  number and display such number which is divisible by 4.\
-    •Question 3: Accept n  number and display such number which is even and divisible by 4.\
-    •Question 4: Accept n  number and display such number which is  divisible by 3 and 5.\
+    •Question 1: Accept n number and count  diffrence between sum of even and odd number.\
+    •Question 2: Accept n number and display such number which is divisible by 4.\
+    •Question 3: Accept n number and display such number which is even and divisible by 4.\
+    •Question 4: Accept n number and display such number which is  divisible by 3 and 5.\
     •Question 5: Accept n numebr and display if it is multiplies of 11.\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment8
 
 •Assignment9:\
     •Description:This assignment is based programs on Array.\
-    •Question 1: Accept n  number and count  frequency of even number.\
-    •Question 2: Accept n  number and return diffrence between frequency of even and odd number.\
-    •Question 3: Accept n  number and display check 11 contains in it or not.\
-    •Question 4: Accept n  number and return frequency 11 in it.\
+    •Question 1: Accept n number and count  frequency of even number.\
+    •Question 2: Accept n number and return diffrence between frequency of even and odd number.\
+    •Question 3: Accept n number and display check 11 contains in it or not.\
+    •Question 4: Accept n number and return frequency 11 in it.\
     •Question 5: Accept n numebr and another number check its contain or not.\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment9
 
+•Assignment10:\
+    •Description:This assignment is based programs on searching element in array.\
+    •Question 1: Accept n number chech another number present or not.\
+    •Question 2: Accept n number and accept one another number return index of first occurance.\
+    •Question 3: Accept n number and accept one another number return index of last occurance.\
+    •Question 4: Accept n number and accept range and display element between it.\
+    •Question 5: Accept n numebr and return product of odd element.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment10
 
 	
