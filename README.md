@@ -83,4 +83,12 @@ In this repository solved programs in c, c++ and java languages.
     •Question 5: Accept n numebr and return product of odd element.\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment10
 
+•Assignment11:\
+    •Description:This assignment is based operation on array.\
+    •Question 1: Accept n number return largest number.\
+    •Question 2: Accept n number return smallest number\
+    •Question 3: Accept n number return diffrence between largest and smallest number.\
+    •Question 4: Accept n number and return such number which contain 3 digit.\
+    •Question 5: Accept n numebr and return summation of digit of each number.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment11    
 	
