@@ -1,21 +1,21 @@
 # Programming_Assignment
-In this repository solved programs in c, c++ and java languages.<br />
+In this repository solved programs in c, c++ and java languages.<br/>
 
 
-•Assignment1:<br />
-    •Description:This assignment is based on using basic C program.<br  />
+•Assignment1:<br/>
+    •Description:This assignment is based on using basic C program.<br/>
     •Question 1 :Program to devide two number.<br />
-    •Question 2 :Program to print any word 5 times on screen.<br />
-    •Question 3 :program to print 5 to 1 number on screen.<br />
-    •Question 4 :program to check number is divisible or not.<br />
-    •Question 5 :Program to print n number of time *.<br />
-•Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment1<br />    
+    •Question 2 :Program to print any word 5 times on screen.<br/>
+    •Question 3 :program to print 5 to 1 number on screen.<br/>
+    •Question 4 :program to check number is divisible or not.<br/>
+    •Question 5 :Program to print n number of time *.<br/>
+•Solution: https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment1<br/>
 
 •Assignment2:
     •Description:This assignment is based on using basic C program.
     •Question 1: Accept one number from user and print that number * on screen.
     •Question 2: Accept one number from user and print that number * on screen.
-    •Question 3: Accept one number from user and check number less than or greater than 10.   
+    •Question 3: Accept one number from user and check number less than or greater than 10
     •Question 4: Accept two number and print first number second number of time.
     •Question 5: Check number is even or odd.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment2
@@ -63,7 +63,7 @@ In this repository solved programs in c, c++ and java languages.<br />
     •Question 2: Accept n  number and display such number which is divisible by 4.
     •Question 3: Accept n  number and display such number which is even and divisible by 4.
     •Question 4: Accept n  number and display such number which is  divisible by 3 and 5.
-    •Question 5: Accept n numebr and display if it is multiplies of 11.        
+    •Question 5: Accept n numebr and display if it is multiplies of 11.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment8
 
 •Assignment9:
@@ -72,7 +72,7 @@ In this repository solved programs in c, c++ and java languages.<br />
     •Question 2: Accept n  number and return diffrence between frequency of even and odd number.
     •Question 3: Accept n  number and display check 11 contains in it or not.
     •Question 4: Accept n  number and return frequency 11 in it.
-    •Question 5: Accept n numebr and another number check its contain or not.        
+    •Question 5: Accept n numebr and another number check its contain or not.
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment9
 
 
