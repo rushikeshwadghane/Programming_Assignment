@@ -91,4 +91,36 @@ In this repository solved programs in c, c++ and java languages.
     •Question 4: Accept n number and return such number which contain 3 digit.\
     •Question 5: Accept n numebr and return summation of digit of each number.\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment11    
-	
+
+•Assignment12:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print pattern (A B C D E F).\
+    •Question 2: print pattern (5 # 4 # 3 #..)\
+    •Question 3: print pattern (5 * 4 * 3 *..).\
+    •Question 4: print pattern(#   1   *   #   2   *   #   3   * .. ).\
+    •Question 5: print n number of even number.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment12    	
+
+•Assignment13:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print below pattern 
+        *   *   *
+        *   *   * 
+        *   *   *\
+    •Question 2: print pattern
+        1   2   3
+        1   2   3
+        1   2   3\
+    •Question 3: print pattern
+        3   2   1
+        3   2   1
+        3   2   1\
+    •Question 4: print pattern
+        *   #   *
+        *   #   *
+        *   #   *\
+    •Question 5: print below pattern:
+        1   1   1
+        2   2   2
+        3   3   3\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment13	
