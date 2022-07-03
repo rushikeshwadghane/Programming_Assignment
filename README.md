@@ -103,7 +103,7 @@ In this repository solved programs in c, c++ and java languages.
 
 •Assignment13:\
     •Description:This assignment is based printing pattrn.\
-    •Question 1: print below pattern \ 
+    •Question 1: print below pattern \
         *   *   *\
         *   *   *\
         *   *   *\
