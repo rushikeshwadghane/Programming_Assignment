@@ -127,7 +127,7 @@ In this repository solved programs in c, c++ and java languages.
 
 •Assignment14:\
     •Description:This assignment is based printing pattrn.\
-    •Question 1: print below pattern:\ 
+    •Question 1: print below pattern:\
         A   B   C \
         A   B   C \
         A   B   C \
@@ -152,22 +152,22 @@ In this repository solved programs in c, c++ and java languages.
 
 •Assignment15:\
     •Description:This assignment is based printing pattrn.\
-    •Question 1: print below pattern \ 
+    •Question 1: print below pattern \
     1   2   3\
     4   5   6\
     7   8   9\
     •Question 2: print pattern:\
-    2	4	6\	
-    1	3	5\	
-    2	4	6\	
+    2	4	6\
+    1	3	5\
+    2	4	6\
     •Question 3: print pattern:\
-    a	b	c\	
-    1	2	3\	
-    a	b	c\	
+    a	b	c\
+    1	2	3\
+    a	b	c\
     •Question 4: print pattern:\
-    1	 2	 3\	
-    -1	-2	-3\	
-    1	 2	 3\	
+    1	 2	 3\
+    -1	-2	-3\
+    1	 2	 3\
     •Question 5: print below pattern:\
     1   2   3\
     2   3   4\
