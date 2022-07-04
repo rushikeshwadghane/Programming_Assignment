@@ -185,8 +185,8 @@ In this repository solved programs in c, c++ and java languages.
     *	*	#\
     *	#	#\	
     •Question 3: print below pattern:\
-    $	*	*\	
-    *	$	*\	
+    $	*	*\
+    *	$	*\
     *	*	$\
     •Question 4: print below pattern:\
     *	*	*\
@@ -210,8 +210,8 @@ In this repository solved programs in c, c++ and java languages.
     *  *\
     *\
     •Question 3: print below pattern:\
-    $  *  *\ 
-    #  $  *\ 
+    $  *  *\
+    #  $  *\
     #  #  $\
     •Question 4: print below pattern:\
     *	*	*\
