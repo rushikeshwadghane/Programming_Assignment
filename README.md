@@ -156,15 +156,15 @@ In this repository solved programs in c, c++ and java languages.
     1   2   3\
     4   5   6\
     7   8   9\
-    •Question 2: print pattern:\
+    •Question 2: print below pattern:\
     2	4	6\
     1	3	5\
     2	4	6\
-    •Question 3: print pattern:\
+    •Question 3: print below pattern:\
     a	b	c\
     1	2	3\
     a	b	c\
-    •Question 4: print pattern:\
+    •Question 4: print below pattern:\
     1	 2	 3\
     -1	-2	-3\
     1	 2	 3\
@@ -173,3 +173,52 @@ In this repository solved programs in c, c++ and java languages.
     2   3   4\
     3   4   5\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment15
+
+•Assignment16:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print below pattern\
+    *	#	#\
+    *	*	#\
+    *	*	*\
+    •Question 2: print below pattern:\
+    *	*	*\
+    *	*	#\
+    *	#	#\	
+    •Question 3: print below pattern:\
+    $	*	*\	
+    *	$	*\	
+    *	*	$\
+    •Question 4: print below pattern:\
+    *	*	*\
+    *	@	*\
+    *	*	*\
+    •Question 5: print below pattern:\
+    1	2	3\
+    1	@	3\
+    1	2	3\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment16
+
+•Assignment17:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print below pattern\
+    *\  
+    *  *\  
+    *  *  *\  
+    *  *  *  *\  
+    •Question 2: print below pattern:\
+    *  *  *\
+    *  *\
+    *\
+    •Question 3: print below pattern:\
+    $  *  *\ 
+    #  $  *\ 
+    #  #  $\
+    •Question 4: print below pattern:\
+    *	*	*\
+    *	*	*\
+    *	*	*\
+    •Question 5: print below pattern:\
+    1	2	3\
+    	2	3\
+        	3\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment17
