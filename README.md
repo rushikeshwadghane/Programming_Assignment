@@ -183,7 +183,7 @@ In this repository solved programs in c, c++ and java languages.
     •Question 2: print below pattern:\
     *	*	*\
     *	*	#\
-    *	#	#\	
+    *	#	#\
     •Question 3: print below pattern:\
     $	*	*\
     *	$	*\
@@ -201,10 +201,10 @@ In this repository solved programs in c, c++ and java languages.
 •Assignment17:\
     •Description:This assignment is based printing pattrn.\
     •Question 1: print below pattern\
-    *\  
-    *  *\  
-    *  *  *\  
-    *  *  *  *\  
+    *\
+    *  *\
+    *  *  *\
+    *  *  *  *\
     •Question 2: print below pattern:\
     *  *  *\
     *  *\
@@ -222,3 +222,36 @@ In this repository solved programs in c, c++ and java languages.
     	2	3\
         	3\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment17
+
+•Assignment18:\
+    •Description:This assignment is based printing pattrn.\
+    •Question 1: print below pattern\
+    *  *  #\ 
+    *  #  *\ 
+    #  *  *\ 
+    •Question 2: print below pattern:\
+    *  *  #\
+    *  #  @\
+    #  @  @\
+    •Question 3: print below pattern:\
+    *  *  *  
+    *  *  *\
+    *  *  *  
+    •Question 4: print below pattern:\
+    *	*	*\
+    *	*	*\
+    *	*	*\
+    •Question 5: print below pattern:\
+    1	2	3\
+    1	2	3\
+    1   2 	3\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment18
+
+•Assignment19:\
+    •Description:This assignment is based programs on Linked List.\
+    •Question 1: Write a program which search first occurance of perticular element from singly linear linked list and return index element found.\
+    •Question 2: Write a program which search Last occurance of perticular element from singly linear linked list and return index element found.\
+    •Question 3: Write a program which return addition of all element from singly linear linked list\
+    •Question 4: Write a program which find maximum element from linked List.\
+    •Question 5:Write a program which find smallest element from linked List.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment19
