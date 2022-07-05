@@ -255,3 +255,21 @@ In this repository solved programs in c, c++ and java languages.
     •Question 4: Write a program which find maximum element from linked List.\
     •Question 5:Write a program which find smallest element from linked List.\
 •Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment19
+
+•Assignment20:\
+    •Description:This assignment is based programs on Linked List.\
+    •Question 1: write a program to display all perfect number from linked list.\
+    •Question 2: Write a program which display all prime number from linked list .\
+    •Question 3: Write a program which dispaly addition of even number from linked list .\
+    •Question 4:Write a program which display second maximum number from linked list .\
+    •Question 5: write a program which display addition of digit of element from Linked list.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment20
+
+•Assignment21:\
+    •Description:This assignment is based programs on Linked List.\
+    •Question 1: write a program whhich reverse each element from linked list.\
+    •Question 2: Write a program which display all palindrome element from linked list .\
+    •Question 3: Write a program which dispaly product  of digit each element from linked list.\
+    •Question 4:Write a program which display smallest digit of each element from linked list.\
+    •Question 5: Write a program which display largest digit of each element from linked list.\
+•Solution:https://github.com/rushikeshwadghane/Programming_Assignment/tree/main/Assignment21
